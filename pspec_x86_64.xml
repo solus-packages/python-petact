@@ -1,0 +1,43 @@
+<PISI>
+    <Source>
+        <Name>python-petact</Name>
+        <Packager>
+            <Name>Fabio Forni</Name>
+            <Email>livingsilver94.solus@redaril.me</Email>
+        </Packager>
+        <License>MIT</License>
+        <PartOf>programming.python</PartOf>
+        <Summary xml:lang="en">A package extraction tool for Python</Summary>
+        <Description xml:lang="en">Petact is a library used for installing and updating compressed tar files. When install_package is called, it downloads an md5 file and compares it with the md5 of the locally downloaded tar. If they are different, the old extracted files are deleted and the new tar is downloaded and extracted to the same place.
+</Description>
+        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://getsol.us/sources/README.Solus</Archive>
+    </Source>
+    <Package>
+        <Name>python-petact</Name>
+        <Summary xml:lang="en">A package extraction tool for Python</Summary>
+        <Description xml:lang="en">Petact is a library used for installing and updating compressed tar files. When install_package is called, it downloads an md5 file and compares it with the md5 of the locally downloaded tar. If they are different, the old extracted files are deleted and the new tar is downloaded and extracted to the same place.
+</Description>
+        <PartOf>programming.python</PartOf>
+        <Files>
+            <Path fileType="executable">/usr/bin/petact</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/petact-0.1.2-py3.6.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/petact-0.1.2-py3.6.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/petact-0.1.2-py3.6.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/petact-0.1.2-py3.6.egg-info/entry_points.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/petact-0.1.2-py3.6.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/petact/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/petact/__pycache__/__init__.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/petact/__pycache__/petact.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/petact/petact.py</Path>
+        </Files>
+    </Package>
+    <History>
+        <Update release="1">
+            <Date>2019-08-13</Date>
+            <Version>0.1.2</Version>
+            <Comment>Packaging update</Comment>
+            <Name>Fabio Forni</Name>
+            <Email>livingsilver94.solus@redaril.me</Email>
+        </Update>
+    </History>
+</PISI>
