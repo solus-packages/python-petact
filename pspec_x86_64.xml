@@ -2,8 +2,8 @@
     <Source>
         <Name>python-petact</Name>
         <Packager>
-            <Name>Fabio Forni</Name>
-            <Email>livingsilver94.solus@redaril.me</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Packager>
         <License>MIT</License>
         <PartOf>programming.python</PartOf>
@@ -20,24 +20,24 @@
         <PartOf>programming.python</PartOf>
         <Files>
             <Path fileType="executable">/usr/bin/petact</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/petact-0.1.2-py3.6.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/petact-0.1.2-py3.6.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/petact-0.1.2-py3.6.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/petact-0.1.2-py3.6.egg-info/entry_points.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/petact-0.1.2-py3.6.egg-info/top_level.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/petact/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/petact/__pycache__/__init__.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/petact/__pycache__/petact.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/petact/petact.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/petact-0.1.2-py3.7.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/petact-0.1.2-py3.7.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/petact-0.1.2-py3.7.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/petact-0.1.2-py3.7.egg-info/entry_points.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/petact-0.1.2-py3.7.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/petact/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/petact/__pycache__/__init__.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/petact/__pycache__/petact.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/petact/petact.py</Path>
         </Files>
     </Package>
     <History>
-        <Update release="1">
-            <Date>2019-08-13</Date>
+        <Update release="2">
+            <Date>2020-01-25</Date>
             <Version>0.1.2</Version>
             <Comment>Packaging update</Comment>
-            <Name>Fabio Forni</Name>
-            <Email>livingsilver94.solus@redaril.me</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Update>
     </History>
 </PISI>
