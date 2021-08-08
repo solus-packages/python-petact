@@ -20,20 +20,20 @@
         <PartOf>programming.python</PartOf>
         <Files>
             <Path fileType="executable">/usr/bin/petact</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/petact-0.1.2-py3.7.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/petact-0.1.2-py3.7.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/petact-0.1.2-py3.7.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/petact-0.1.2-py3.7.egg-info/entry_points.txt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/petact-0.1.2-py3.7.egg-info/top_level.txt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/petact/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/petact/__pycache__/__init__.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/petact/__pycache__/petact.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/petact/petact.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/petact-0.1.2-py3.9.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/petact-0.1.2-py3.9.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/petact-0.1.2-py3.9.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/petact-0.1.2-py3.9.egg-info/entry_points.txt</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/petact-0.1.2-py3.9.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/petact/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/petact/__pycache__/__init__.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/petact/__pycache__/petact.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/petact/petact.py</Path>
         </Files>
     </Package>
     <History>
-        <Update release="2">
-            <Date>2020-01-25</Date>
+        <Update release="3">
+            <Date>2021-07-28</Date>
             <Version>0.1.2</Version>
             <Comment>Packaging update</Comment>
             <Name>Joey Riches</Name>
